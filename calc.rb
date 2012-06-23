@@ -15,4 +15,8 @@ def div( op1, op2 )
 	return op1/op2
 end
 
+def multiply(a, b)
+    a * b
+end
+
 p div(10,4)
