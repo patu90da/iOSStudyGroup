@@ -23,6 +23,3 @@ end
 def multiply(a, b)
     a * b
 end
-def minus(op1, op2)
-    return op1 - op2
-end
