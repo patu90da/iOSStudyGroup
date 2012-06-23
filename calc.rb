@@ -24,3 +24,6 @@ def multiply(a, b)
     a * b
 end
 
+def minus(a, b)
+    a - b
+end
